@@ -1,0 +1,51 @@
+body{
+  background-image: url('https://p0.pxfuel.com/preview/282/304/939/5be982dc4f1da.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  backdrop-filter: blur(15px);
+}
+
+h1{
+  font-family: Montserrat;
+  text-align: center;
+  border: solid;
+  padding: 20px;
+  color: red;
+
+}
+p1{
+  font-size: 18px;
+  color: red;
+}
+
+img{
+  width: 250px;
+}
+
+table{
+  width: 100;
+  color: red;
+}
+
+table, th, td{
+  border: solid 2px;
+  text-align: center;
+  color: red;
+}
+h2{
+  border: solid;
+  margin-right: 530px;
+  color: red;
+  font-size: 20px;
+}
+
+p2{
+  color: red;
+}
+
+h3{
+  color: red;
+  border: solid;
+  margin-right: 530px;
+}
